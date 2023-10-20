@@ -20,7 +20,7 @@ header {
     text-align: center;
     font-size: 15px;
     margin-top: 30px;
-    margin-bottom: 70px;
+    margin-bottom: 130px;
 }
 
 .headerItems {
@@ -62,7 +62,7 @@ h2 {
 }
 
 .btn {
-    margin: 40px;
+    margin: 30px;
     display: flex;
     justify-content: center;
     width: 25%;
@@ -96,6 +96,7 @@ h2 {
     margin: 50px;
     color: black;
     font-size: 25px;
+    width: 60vw;
 }
 
 .textBtnRight{
@@ -103,7 +104,8 @@ h2 {
     text-align: right;
     margin: 40px;
     color: black;
-    font-size: 25px
+    font-size: 25px;
+    width: 60vw
 }
 
 .ajeitaTexto {
@@ -116,4 +118,21 @@ a {
 
 img {
     margin: 0;
+}
+
+.subTitulo{
+    color: black;
+    text-align: center;
+    margin: 20px;
+    font-size: 30px;
+}
+
+.risco {
+    background-color: gray;
+    width: 80%;
+    height: 2px;
+    border-radius: 1px;
+    display: flex;
+    margin: auto;
+    margin-bottom: 60px;
 }
